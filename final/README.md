@@ -4,7 +4,6 @@
 
 This directory contains the final API example found in the book. For the starter project, visit the `/src` directory and for chapter by chapter solutions, visit `/solutions`.
 
-
 ## Getting Help
 
 The best place to get help is our Spectrum channel, [spectrum.chat/jseverywhere](https://spectrum.chat/jseverywhere).
