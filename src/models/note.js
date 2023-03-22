@@ -1,5 +1,4 @@
 //引入mongoose 库
-const { Mongoose } = require('mongoose');
 const mongoose = require('mongoose');
 
 //定义笔记的数据库模式
