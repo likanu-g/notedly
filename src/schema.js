@@ -8,7 +8,7 @@ module.exports = gql`
     content: String!
     author: String!
     createdAt: DateTime!
-    updateAt: DateTime!
+    updatedAt: DateTime!
   }
 
   type Query {
